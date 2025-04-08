@@ -1,5 +1,6 @@
 topwatch Web Application - Project Description
 Overview
+
 This Stopwatch Web Application is a responsive and interactive tool designed to accurately measure time intervals. Built with HTML, CSS, and JavaScript, it provides essential stopwatch functionalities, including start, pause, reset, and lap time recording.
 
 Key Features
